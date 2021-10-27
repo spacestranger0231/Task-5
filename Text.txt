@@ -1,0 +1,3 @@
+﻿here <is text>
+the <text is about text>
+text <of> the text
